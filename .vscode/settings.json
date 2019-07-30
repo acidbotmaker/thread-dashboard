@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/acid-01/.local/share/virtualenvs/thread-dash-LICpOz00/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false
+}
